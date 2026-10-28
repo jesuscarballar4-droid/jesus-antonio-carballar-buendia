@@ -1,0 +1,13 @@
+CÓDIGOS PYTHON — ACTIVIDADES 1.7 A 2.6
+
+Cómo usarlos:
+1. Extrae este ZIP en Windows.
+2. Copia los seis archivos .py dentro de tu carpeta codigo_python.
+3. Abre cada archivo en Visual Studio Code.
+4. Pulsa el botón ▶ (Run Python File).
+5. Revisa la salida en la Terminal.
+
+Estos scripts son ejemplos ejecutables para probar algoritmos y apoyar las actividades.
+La actividad 1.7 es principalmente un reporte de investigación; el script imprime tres casos
+de ejemplo, pero debes complementar el reporte con fuentes verificables y referencias APA 7.
+Los scripts 2.1, 2.3, 2.4, 2.5 y 2.6 son demostraciones educativas.
